@@ -23,16 +23,6 @@
 </p>
 
   
-### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working as a Lead React Native Developer @ [Freelancer](https://www.freelancer.com/) and @ [Upwork](https://www.upwork.com/)
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS,React , React Native, Redux, Firebase.(After googling it 😜😌)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding :Outing with Friends, Reading blogs and know more about History .
-- Tools using: slack,trello,clickup,asana,zoom
-- 📫 How to reach me:ansofficially@gmail.com
-- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-iqbal-899892240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansofficially@gmail.com) 
