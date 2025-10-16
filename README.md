@@ -19,15 +19,8 @@
 <br/>
 
 <p>
-A Skilled Software Engineer 🚀 from Pakistan. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : React, React Native, Typescript, Tailwind, Expo, Firebase, Zustand, Redux, AWS-Amplify, GraphQL, AWS, GCP, Stripe, Maps, API Integrations, etc.
-<br/>  
-Things I am currently Learning : AI Agentic Models and Supabase ...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+<br>I'm a passionate Software Engineer with 3+ years of experience in building high-quality mobile and web applications. I specialize in crafting user-friendly solutions with modern tech stacks.<br><br>🚀 What I Do:<br>⚛️ Mobile Development: Building cross-platform mobile apps with React Native.<br>🌐 Web Development: Creating dynamic web apps using React.js and Next.js.<br>⚙️ Backend Magic: Developing robust APIs and backend services with Node.js.<br>🏗️ End-to-End Solutions: Handling projects from requirements gathering to deployment and maintenance.<br>📲 Tech Enthusiast: Always exploring new tools, technologies, and best practices.<br>
 </p>
-
 
   
 ### ✨ Quick Facts
@@ -39,6 +32,11 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 🎿 Hobbies other than coding :Outing with Friends, Reading blogs and know more about History .
 - Tools using: slack,trello,clickup,asana,zoom
 - 📫 How to reach me:ansofficially@gmail.com
+- 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-iqbal-899892240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansofficially@gmail.com) 
+
 
 ### 🛠️ Languages and Tools:
 
