@@ -19,7 +19,7 @@
 <br/>
 
 <p>
-<br>I'm a passionate Software Engineer with 3+ years of experience in building high-quality mobile and web applications. I specialize in crafting user-friendly solutions with modern tech stacks.<br><br>🚀 What I Do:<br>⚛️ Mobile Development: Building cross-platform mobile apps with React Native.<br>🌐 Web Development: Creating dynamic web apps using React.js and Next.js.<br>⚙️ Backend Magic: Developing robust APIs and backend services with Node.js.<br>🏗️ End-to-End Solutions: Handling projects from requirements gathering to deployment and maintenance.<br>📲 Tech Enthusiast: Always exploring new tools, technologies, and best practices.<br>
+🚀 What I Do:<br>⚛️ Mobile Development: Building cross-platform mobile apps with React Native.<br>🌐 Web Development: Creating dynamic web apps using React.js and Next.js.<br>⚙️ Backend Magic: Developing robust APIs and backend services with Node.js.<br>🏗️ End-to-End Solutions: Handling projects from requirements gathering to deployment and maintenance.<br>📲 Tech Enthusiast: Always exploring new tools, technologies, and best practices.<br>
 </p>
 
   
